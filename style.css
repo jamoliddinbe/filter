@@ -1,0 +1,105 @@
+body{
+    background-color: aqua;
+}
+.container{
+    width: 1300px;
+    display: flex;
+    align-items: center;
+}
+.miniContainer{
+    display: flex;
+    margin-left: 150px;
+}
+.div{
+    visibility: hidden;
+}
+.btns{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+.btn1{
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.btn2{
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.btn3{
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+input{
+    height: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.inputs{
+    align-items: center;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.lupa{
+    border: 1px solid black;
+}
+.place{
+    color: white;
+    background-color: red;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 30px;
+    width: 50%;
+    height: 20px;
+border: 1px solid black;
+}
+.place2{
+    color: white;
+    background-color: red;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 30px;
+    width: 50%;
+    height: 20px;
+border: 1px solid black;
+}
+.place3{
+    color: white;
+    background-color: red;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 30px;
+    width: 50%;
+    height: 20px;
+border: 1px solid black;
+}
+.place4{
+    color: white;
+    background-color: red;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 30px;
+    width: 200px;
+    height: 200px;
+border: 1px solid black;
+}
+.place5{
+    color: white;
+    background-color: red;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 30px;
+    width: 50%;
+    height: 20px;
+border: 1px solid black;
+}
